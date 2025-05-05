@@ -1,0 +1,22 @@
+Ce dossier contient les fichiers de sorties concernant l'historique de casses générés par les méthodes de ML ou DL précédentes.
+
+Les fichiers sont donc utilisables et consultables mais il est nécessairement interdit de les modifier par logiciels autres que Python pour que les programmes en aval ne soient pas perturbés.
+
+Ces fichiers constituent une base à l'obtention des shapefiles finaux dans le dossier "shapefiles_finals"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHOUATER Matéo
